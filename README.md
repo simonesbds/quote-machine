@@ -53,3 +53,5 @@ L’API di Advice Slip a volte ritorna risposte cache.
 Per questo nel codice viene letta la risposta come `text()` e poi convertita con `JSON.parse()`.
 
 ---
+
+![Preview](image.png)
